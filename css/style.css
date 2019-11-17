@@ -136,7 +136,7 @@ a:active, a:hover {
 
 body {
   background: #fff none repeat scroll 0 0;
-  color: #444;
+  color: #5a5f6a;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   text-align: left;
@@ -264,7 +264,7 @@ div#preloader {
   left: 0;
   width: 100%;
   height: auto;
-  background: rgba(0, 0, 0, 0.40);
+  background: #5a5f6a;
   z-index: 9;
 }
 
@@ -383,7 +383,7 @@ div#preloader {
 /*--------------------------------*/
 
 .header-area.stick {
-  background-color: #44505d;
+  background-color: #5a5f6a;
   height: 70px;
   position: fixed;
   top: 0;
