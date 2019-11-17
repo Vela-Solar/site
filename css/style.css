@@ -264,7 +264,7 @@ div#preloader {
   left: 0;
   width: 100%;
   height: auto;
-  background: #5a5f6a;
+  background: #888c96;
   z-index: 9;
 }
 
@@ -383,7 +383,7 @@ div#preloader {
 /*--------------------------------*/
 
 .header-area.stick {
-  background-color: #5a5f6a;
+  background-color: #888c96;
   height: 70px;
   position: fixed;
   top: 0;
